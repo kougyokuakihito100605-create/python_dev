@@ -27,3 +27,5 @@ if st.button("勝負！！"):
         st.write("結果：あなたの勝ち！🎉")
     else:
         st.write("結果：あなたの負け…😢")
+        
+#https://pythondev-kvpbcs2pw3zdtk5uznpfpz.streamlit.app/
